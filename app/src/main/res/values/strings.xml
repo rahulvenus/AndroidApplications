@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"MyContacts"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_contact_user_options">MyContactUserOptions</string>
+    <string name="title_popup">PopupDemoActivity</string>
+    <string name="user_popup">UserDoesNotExitsPopUp</string>
+    <string name="paswd_popup">PaswdNotCorrectPopUp</string>
+    <string name="title_upload_contacts">UploadContacts</string>
+    <string name="title_download_contacts">DownloadContacts</string>
+    <string name="emptyString"></string>
+</resources>
